@@ -1,0 +1,11 @@
+Algoritma Luas_Keliling_Lingkaran
+
+STORE "R" with any value
+STORE "CONST PHI" = 3.14
+STORE "LUAS" without any value
+STORE "KELILING" without any value
+
+CALCULATE "LUAS" = CONST PHI * R * R
+CALCULATE "KELILING" = 2 * CONST PHI * R
+
+DISPLAY "LUAS, KELILING"
